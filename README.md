@@ -1,2 +1,2 @@
 # android
-哈希世界游戏安卓手机客户端源码
+android mobile
